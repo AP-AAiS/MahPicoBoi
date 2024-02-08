@@ -49,7 +49,8 @@ Building your own MahPicoBoi is as easy as it is fast! All you need to do is get
 ***If you don't care about the MIDI-OUT capabilities of your MahPicoBoi, you can get away with only using one MIDI port. In that case, you also won't need the 10 Ω and 33 Ω resistors. 
 
 # Build Guide
-![MIDI GB Complete_Steckplatine](https://github.com/AP-AAiS/MahPicoBoi/assets/68875171/61bf094e-2866-47bb-a320-165d43215461)
+![MIDI GB Complete_Steckplatine ENGLISH](https://github.com/AP-AAiS/MahPicoBoi/assets/68875171/6e413c80-334f-43bc-8100-0ea7eda8ebf1)
+
 
 Detailed build instructions can be found over at my website. Simply head on over to:
 https://rykani.com/mahpicoboi
