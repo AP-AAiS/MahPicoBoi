@@ -1,0 +1,5 @@
+add_executable(MahPicoBoiDXCommented MahPicoBoiDXCommented.c)
+
+target_link_libraries(MahPicoBoiDXCommented pico_stdlib)
+
+pico_add_extra_outputs(MahPicoBoiDXCommented)
