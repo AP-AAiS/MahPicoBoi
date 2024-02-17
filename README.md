@@ -97,3 +97,10 @@ The MahPicoBoi wouldn't exist without the brilliant work of a large group of ama
 - The team from gbdev.io that gave us all a great starting off point for diving into the complex world of Game Boy software development
 
 MahPicoBoi wouldn't exist without you guys. From the bottom of my heart: Thank you for being awesome!
+
+# Support the Dev
+<img width="620" alt="TextLogo_white_stroke@2x" src="https://github.com/AP-AAiS/MahPicoBoi/assets/68875171/2cefabce-ec8c-4a41-8927-d82beb590c35">
+
+https://ko-fi.com/apaais
+
+If you want to help me pay off some of the development costs of MahPicoBoi, you can send me a buck or two over at Ko-fi. Don't worry, there's no paywalled content nor anything else on there. My Kofi account just exists for people who have the means and will to support me. If you lack either, don't worry, I'll make sure you're not missing out on anything!
