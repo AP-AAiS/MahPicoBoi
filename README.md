@@ -19,6 +19,12 @@ Hey there! Welcome to the repository of MahPicoBoi, a Raspberry Pi Pico based MI
 - Based on the Raspberry Pi Pico, one of the cheapest RP2040 Microcontrollers on the market right now
 - Quick and easy to build thanks to the step-by-step tutorial linked below
 
+# Video Demonstration
+![MahPicoBoi V1](https://github.com/AP-AAiS/MahPicoBoi/assets/68875171/a8ee51e2-02f3-44e1-a3b9-d9f6cccd48a4)
+
+You can find a video that goes over all the technical details of MahPicoBoi and shows it in action over on my YouTube channel:
+https://youtu.be/hq1gwZe8EhA
+
 # Build your own MahPicoBoi
 Building your own MahPicoBoi is as easy as it is fast! All you need to do is get your hands on the following list of components, then you can simply follow the step-by-step guide from my website.
 
