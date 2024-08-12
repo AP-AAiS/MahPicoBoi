@@ -4,6 +4,8 @@
 
 A Raspberry Pi Pico based MIDI interface for the Nintendo Game Boy
 
+**Now with MIDI Sync support!**
+
 # This sound is what all true warriors strive for!
 Hey there! Welcome to the repository of MahPicoBoi, a Raspberry Pi Pico based MIDI interface for your Game Boy. This project was designed from the ground up to be cheap, reliable, simple and easy to build, meaning that you can build your own MahPicoBoi with nothing more than a soldering iron, a pair of scissors, a few select components and a bit of time on your hands.
 
@@ -83,8 +85,7 @@ https://rykani.com/mahpicoboi
 - Probably everything else that uses a standard MIDI implementation. I haven't tried anything else, though, so no guarantees!
 
 # Future Development Plans
-- Have the Pico read data from the serial-out wire and send it out via the TX pin. This would save us having to switch out the MIDI-OUT jumper wire when switching between Game Boy MIDI-OUT and MIDI-THRU mode.
-- TBD
+- Soon ████████████████████ multiple ███████████████████████████████████████████
 
 # Suggestions
 Do you have your own suggestions on how to develop and improve MahPicoBoi in the future? Send them to me via E-Mail at: complaints@rykani.com
