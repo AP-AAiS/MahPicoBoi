@@ -135,7 +135,12 @@ void ReadRX()
                 //Finally, we want to iterate bytesSent.
                 //If we sent out a status or data byte, iterate bytesSent by 1 unless bytesSent is 2, in which case we'll reset it to 0 and start waitign for a new status byte.
                 //If we just sent out the status byte of a programm change message, bytesSent needs to be iterated by 2 since PC messages are only 2 bytes long.
-                (bytesSent == 2) ? (bytesSent = 0) : (bytesSent += 1 + (check == 0xC));
+
+                //Update 12th of August 2024: Fix for timing and sync signal support.
+                //bytesSent will now be reset on 0xFA/FB/FC/F8/FD/FF signals and stay at one for 0xFA signals.
+                //Thanks to this little change, MPB now supports all forms of MIDI timing signals.
+                //SysEx signals continue to be rejected, but since I don't see a reason to use SysEx on a Game Boy, I'll consider this a feature rather than a bug.
+                (bytesSent == 2) ? (bytesSent = 0) : (bytesSent += 1 + (check == 0xC) - (((check == 0xF))+(byte == 0xF6)));
             }
         }
     }
