@@ -31,7 +31,7 @@ https://youtu.be/hq1gwZe8EhA
 ![image](https://github.com/AP-AAiS/MahPicoBoi/assets/68875171/159e9deb-1e86-4603-a3c3-a50a9f353de3)
 
 For those of you interested in getting your own MahPicoBoi in a simple, pre-built package, there are now several different kits of the official MahPicoBoi V2 PCB for sale on my e-bay page. You can check them out here:
-[https://www.ebay.de/itm/315250373588](https://www.ebay.de/itm/315250373588)
+[https://www.ebay.com/itm/315250373588](https://www.ebay.com/itm/315250373588)
 # Build your own MahPicoBoi
 Building your own MahPicoBoi is as easy as it is fast! All you need to do is get your hands on the following list of components, then you can simply follow the step-by-step guide from my website.
 
